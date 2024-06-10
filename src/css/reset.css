@@ -1,0 +1,11 @@
+/*as alterações no CSS acontecem em cascata, na ordem em que o arquivo CSS é feito*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
